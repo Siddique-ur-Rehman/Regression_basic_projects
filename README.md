@@ -25,3 +25,16 @@ The model achieved a high **R-squared value of 0.94**, indicating that it explai
 To run this project on your own machine, you'll need Python and a few essential libraries.
 
 1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd YOUR_REPOSITORY_NAME
+    ```
+3.  **Install the required libraries:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+4.  **Run the Jupyter Notebook:**
+    Now you can open and run the `.ipynb` file in Jupyter Notebook or JupyterLab to see the code and results.
